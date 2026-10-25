@@ -10,7 +10,7 @@
 
 | 品牌 | 定位 | 官网 |
 |---|---|---|
-| **鸥吧 hiouba** | 母品牌 · 校园生活全场景服务 | [https://hiouba.com](https://hiouba.com) |
+| **鸥吧 hiouba** | 母品牌 · 校园生活全场景服务 | [https://www.hiouba.com](https://www.hiouba.com) |
 | **校小乐 xiaoxiaole** | 校园集市/论坛运营平台（九大系统，多校区站长网络） | [https://www.ylwh666.com](https://www.ylwh666.com) |
 | **daxueer** | 筹备中，敬请期待 | — |
 
