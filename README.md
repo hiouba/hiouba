@@ -20,6 +20,7 @@
 |---|---|---|
 | [**campus-forum**](https://github.com/hiouba/campus-forum) | 校园集市 · 论坛小程序（uni-app + Vue3 + uview-plus）：社区墙/热榜、跑腿、二手、圈子群聊、消息、等级钱包，含自研 shiba 组件库 40+。历史版 v1.x 纯前端 | ✅ 已发布 |
 | [**campus-errand**](https://github.com/hiouba/campus-errand) | 校园代丢垃圾 · 跑腿小程序（uni-app + Vue3 + Vite）：下单计价、包月、按楼栋抢单、凭证打卡、佣金结算，含调研/PRD/库表设计/API 契约全套文档 + 建表 SQL | ✅ 已发布 |
+| [**campus-dev-guardrails**](https://github.com/hiouba/campus-dev-guardrails) | 校园小程序开发护栏：MCP server + CLI，43 条线上事故沉淀的 uni-app / 微信小程序约束规则，AI 写码前取约束、发版前扫违规 | ✅ 已发布 |
 
 ## 关于
 
